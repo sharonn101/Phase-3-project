@@ -1,5 +1,4 @@
 from models import User, Task
-from tabulate import tabulate
 
 def main():
     while True:
