@@ -40,3 +40,22 @@ task_manager/
 - Filter tasks by status (e.g., show only "Completed" tasks)
 
 - Add due dates and priorities
+
+## Usage
+
+- Start the CLI:
+- ```bash
+- python cli.py
+
+## Example Run
+Choose an option: 1
+Enter task title: Buy groceries
+Task added with ID 1.
+
+Choose an option: 2
+ID   Title                         Status
+--------------------------------------------------
+1    Buy groceries                 Pending
+
+
+
